@@ -1,7 +1,7 @@
 
 -------
- 
-/>
+
+
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
@@ -10,7 +10,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/biameiraa/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20game%20on.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/biameiraa/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20game%20on.pdf" title="View PDF now"> 📕Clique aqui para ler o Ebook Game On: Marketing e Comunicação no Mercado de Tecnologia</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
