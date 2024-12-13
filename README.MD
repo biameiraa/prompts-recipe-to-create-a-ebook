@@ -4,7 +4,7 @@
 
 <p align="center">
 <img 
-    src=".assets/Dark Urban eBook Template in Black Blue and Yellow Abstract Illustrative Style.jpg"
+    src=".assets/https://github.com/biameiraa/prompts-recipe-to-create-a-ebook/blob/9906b73dd486a496d2e6ef9791b1f57699a2353b/assets/Dark%20Urban%20eBook%20Template%20in%20Black%20Blue%20and%20Yellow%20Abstract%20Illustrative%20Style.jpg"
     width="400"  
 />
 </p>
